@@ -1,0 +1,116 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.color-brand-pink {
+  color: #f45b92;
+}
+
+.color-brand-blue {
+  color: #66d0ed;
+}
+
+a {
+  color: #568c36;
+}
+
+a:hover {
+  color: #113c00;
+}
+
+.max-length {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.masthead {
+  background-color: #f45b92;
+
+  color: #fff;
+}
+
+.nav {
+  position: relative;
+  background-color: #66d0ed;
+  z-index: 2;
+}
+
+.nav a {
+  display: inline-block;
+  padding: .5rem .75rem;
+
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover,
+.nav a:focus {
+  background-color: #fff;
+  color: #66d0ed;
+}
+
+th,
+td {
+  border-color: #dfdcda;
+}
+
+.sweets {
+  background-color: #f1f9fa;
+}
+
+.about {
+  position: relative;
+}
+
+.about-content {
+  background-color: #66d0ed;
+  color: #fff;
+}
+
+.hours {
+  background-color: #f1f9fa;
+}
+
+.reviews {
+  background-color: #f9f9f2;
+}
+
+.location {
+  background-color: #f9f9f2;
+}
+
+.contact {
+  background-color: #f1f9fa;
+}
+
+.btn {
+  background-color: #66d0ed;
+  border-color: #66d0ed;
+
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border-color: #66d0ed;
+
+  color: #66d0ed;
+}
+
+.footer {
+  background-color: #f45b92;
+  color: #fff;
+}
+
+@media only screen and (min-width: 35em) {
+
+  .about-content {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+
+    background-color: transparent;
+    background-image: linear-gradient(to bottom, rgba(17, 0, 0, 0), rgba(17, 0, 0, .8));
+  }
+
+}
