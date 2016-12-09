@@ -112,15 +112,6 @@ thead th {
 .italic {
   font-style: italic;
 }
-
-.text-upper {
-  text-transform: uppercase;
-}
-
-.text-lower {
-  text-transform: lowercase;
-}
-
 .wrapper {
   margin-left: auto;
   margin-right: auto;
@@ -200,17 +191,6 @@ h6,
 input,
 textarea {
   font-size: 1rem;
-  line-height: 1.3rem;
-}
-
-small,
-.milli {
-  font-size: .9372rem;
-  line-height: 1.3rem;
-}
-
-.micro {
-  font-size: .8784rem;
   line-height: 1.3rem;
 }
 
