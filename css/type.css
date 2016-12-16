@@ -116,6 +116,16 @@ caption {
   margin: 0 0 1.3rem;
 }
 
+.yotta {
+  font-size: 1.5745rem;
+  line-height: 2.275rem;
+}
+
+.zetta {
+  font-size: 1.4757rem;
+  line-height: 1.95rem;
+}
+
 h1,
 .exa {
   font-size: 1.383rem;
@@ -276,36 +286,6 @@ input[type="radio"] {
 .pad-bottom-eighth,
 .pad-b-1-8 {
   padding-bottom: .1625rem;
-}
-
-.island {
-  padding: 1.3rem;
-}
-
-.island-double,
-.island-2 {
-  padding: 2.6rem;
-}
-
-.island-half,
-.island-1-2 {
-  padding: .65rem;
-}
-
-.island-quarter,
-.island-1-4,
-td,
-table th,
-fieldset {
-  padding: .325rem;
-}
-
-.island-eighth,
-.island-1-8,
-input,
-textarea,
-select {
-  padding: .1625rem;
 }
 
 .gutter {
