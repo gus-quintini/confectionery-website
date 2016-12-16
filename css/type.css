@@ -13,29 +13,6 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 
-sub,
-sup {
-  font-size: 75%;
-  line-height: 1px;
-  position: relative;
-  vertical-align: baseline;
-}
-
-sup {
-  top: -.5em;
-}
-
-sub {
-  bottom: -.25em;
-}
-
-pre,
-code,
-kbd,
-samp {
-  font-size: 100%;
-}
-
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
@@ -97,14 +74,6 @@ thead th {
   font-style: normal;
 }
 
-.not-bold {
-  font-weight: normal;
-}
-
-.not-italic {
-  font-style: normal;
-}
-
 .bold {
   font-weight: bold;
 }
@@ -145,16 +114,6 @@ pre,
 table,
 caption {
   margin: 0 0 1.3rem;
-}
-
-.yotta {
-  font-size: 1.5745rem;
-  line-height: 2.275rem;
-}
-
-.zetta {
-  font-size: 1.4757rem;
-  line-height: 1.95rem;
 }
 
 h1,
