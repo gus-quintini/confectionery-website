@@ -741,11 +741,6 @@ a:focus, [tabindex="0"]:focus {
   cursor: default;
 }
 
-.print-only {
-  display: none;
-  visibility: hidden;
-}
-
 @media print {
 
   .no-print {
